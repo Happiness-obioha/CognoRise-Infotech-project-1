@@ -15,7 +15,7 @@ The dataset includes various attributes such as cereal name, manufacturer, calor
 -	mfr: Manufacturer
 -	A = American Home Foods Products;
 -	G = General Mills
--	K = Kelloggs
+-	K = Kellogg's
 -	N = Nabisco
 -	P = Post
 -	Q = Quaker Oats
@@ -60,6 +60,30 @@ The following Power BI features were incorporated:
 ## Visualization:
 Cereals dashboard
 link to dashboard (https://app.powerbi.com/groups/me/reports/082810d0-6e1f-49f4-96d5-73c2718d1114/ReportSection?experience=power-bi)
+
+## Analysis:
+1.	Highest and Lowest Ratings: All-Bran with extra fiber has the highest rating,
+   while Cap ‘n’ Crunch has the lowest rating. Both has the same vitamins level of 25.
+2.	Cereal type and rating: Cereal type Cold has the highest and lowest ratings 
+   compared to cereal type Hot.
+3.	Manufacturer ratings: Manufacturer of Kellogg’s has the highest rating of 93.70%,
+	 while manufacturer of Quaker Oats has the lowest rating of 18.04%
+4.	Shelf ratings: Shelf 1 has the highest average rating of 46.1%, followed by
+5.	shelf 3 and then shelf 2.
+
+## Recommendations:
+
+1.	Choose cereals with high fiber content: The analysis suggests that cereals with
+higher fiber content tends to have better ratings. This is because fiber is an 
+essential nutrient that can help with digestion and satiety.
+2.	Consider cereals with moderate calorie counts as they tend to have better ratings.
+This is because such cereals provide a balance between nutrition and taste.
+3.	Opt for cereals with lower sugar content: These cereals are generally rated higher
+because excessive sugar consumption can lead to various health issues.
+4.	Check the manufacturer: The analysis highlights that cereals from certain manufacturers,
+such as Kellogg’s and General Mills tend to have better ratings and this could be due to
+their reputation for producing high-quality products.
+
 
 
 
