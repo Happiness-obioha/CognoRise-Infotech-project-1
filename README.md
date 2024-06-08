@@ -58,8 +58,9 @@ The following Power BI features were incorporated:
 -	Insert
 
 ## Visualization:
-Dashboard
-![](cereals_dashboard)
+it is a one page report, that is,the dashboard
+you can interact with the report here ()
+
 
 
 
