@@ -58,8 +58,10 @@ The following Power BI features were incorporated:
 -	Insert
 
 ## Visualization:
-it is a one page report, that is,the dashboard
-you can interact with the report here ()
+Cereals dashboard
+link to dashboard (https://app.powerbi.com/groups/me/reports/082810d0-6e1f-49f4-96d5-73c2718d1114/ReportSection?experience=power-bi)
+
+
 
 
 
